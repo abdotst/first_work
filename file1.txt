@@ -1,1 +1,2 @@
-first like in file1.txt
+first file in file1.txt
+second file in file2.txt
